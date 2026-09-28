@@ -3,7 +3,7 @@ This project is to make a DIY joystick handheld console utilizing a 2400mAh 12v 
 BTW I do use A.I. to help with debugging and learning how to code.
 DAY #1 finding container that is approx 11.5mmx16.4mmx3.5mm. 
 DAY #1 locate components and parts
-1.20x4 i2c lcd screen  
+1.20x4 I2c LCD screen  
 2.12V 6S 2400mAh li-ion battery pack + charger
 3.2 AA batteries(for UPS power source)
 4.2 Joysticks, XY axis w/ buttons
@@ -13,5 +13,9 @@ DAY #1 locate components and parts
 8. 1 ELEGOO basic arduino nano dev board(for screen controll since esp-32 cant handle 5v, you can also use an i2c level shfiter)
 9. Basic passive components
 10.M.O.S.F.E.T for fan control
+11. 21Ω speaker
+12. 16x2 I2c LCD screen
 DAY #2 Cut out holes for LCD Screen, joysticks, and rotary encoders, format everything inside of enclosure
 DAY #3 Format components onto perf boards before soldering
+DAY #3 Add in a second LCD screen, vertically for bar style statistics e.g. health, xp, etc.
+DAY #3 Begin working on Class A/B audio amplifier for 21Ω speaker
