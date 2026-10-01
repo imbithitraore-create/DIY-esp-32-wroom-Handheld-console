@@ -13,9 +13,12 @@ DAY #1 locate components and parts
 8. 1 ELEGOO basic arduino nano dev board(for screen controll since esp-32 cant handle 5v, you can also use an i2c level shfiter)
 9. Basic passive components
 10.M.O.S.F.E.T for fan control
+12.MOSFET for powersource turn on
 11. 21Ω speaker
 12. 16x2 I2c LCD screen
 DAY #2 Cut out holes for LCD Screen, joysticks, and rotary encoders, format everything inside of enclosure
 DAY #3 Format components onto perf boards before soldering
 DAY #3 Add in a second LCD screen, vertically for bar style statistics e.g. health, xp, etc.
 DAY #3 Begin working on Class A/B audio amplifier for 21Ω speaker
+DAY #4 Work on troubleshooting UPS Power source system
+DAY #5 Finish UPS power source system and solder in esp breakout dev board number one
